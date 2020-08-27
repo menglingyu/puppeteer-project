@@ -1,0 +1,10 @@
+{
+  "name": "puppeteer-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.8.34",
+    "puppeteer": "^5.2.1"
+  }
+}
